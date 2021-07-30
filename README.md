@@ -1,3 +1,3 @@
 # demo-repo
 
-beginners playground
+beginners playground *
